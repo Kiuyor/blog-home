@@ -10,9 +10,9 @@
         };
         n.LA ? n.LA.ids && a() : (n.LA = t, n.LA.ids = [], a()), o.parentNode.insertBefore(c, o)
     }()
-}({id: "JqNOFlYj12ogPJ9Y", ck: "JqNOFlYj12ogPJ9Y"}), function (t, e, n, s) {
+}({id: "3I0oxwv6NvD3MbI2", ck: "3I0oxwv6NvD3MbI2"}), function (t, e, n, s) {
     var i = e.createElement("script"), r = e.getElementsByTagName("script")[0];
     i.type = "text/javascript", i.crossorigin = !0, i.onload = function () {
-        (new t[s].Monitor).init({id: "JqNOmEChi1qTN6k2"})
+        (new t[s].Monitor).init({id: "3I0oxwv6NvD3MbI2"})
     }, r.parentNode.insertBefore(i, r), i.src = n
 }(window, document, "https://sdk.51.la/perf/js-sdk-perf.min.js", "LingQue");
